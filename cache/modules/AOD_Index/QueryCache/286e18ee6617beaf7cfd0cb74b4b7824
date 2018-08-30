@@ -1,0 +1,3 @@
+a:2:{i:0;O:8:"stdClass":8:{s:13:"record_module";s:12:"MA_Productos";s:9:"record_id";s:36:"90ac125a-a51d-94ea-fffd-5b801a8f9c5c";s:5:"score";d:1;s:5:"label";s:9:"Productos";s:4:"name";s:0:"";s:7:"summary";s:70:"123 || Producto 1 || 20.000000 || lacteos || producto uno es de prueba";s:12:"date_entered";s:16:"08/24/2018 16:46";s:13:"date_modified";s:16:"08/24/2018 16:46";}i:1;O:8:"stdClass":8:{s:13:"record_module";s:12:"MA_Productos";s:9:"record_id";s:36:"e1c35b71-debe-e082-289c-5b802a8ee996";s:5:"score";d:0.26773634190508;s:5:"label";s:9:"Productos";s:4:"name";s:0:"";s:7:"summary";s:82:"abc || producto 2 || 15.000000 || Frituras || dtrgsiasjadjild
+sdsdds
+sddsdsdsdsd";s:12:"date_entered";s:16:"08/24/2018 17:56";s:13:"date_modified";s:16:"08/24/2018 17:56";}}

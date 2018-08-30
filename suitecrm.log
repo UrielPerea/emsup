@@ -1,0 +1,109 @@
+Thu Aug 23 23:15:32 2018 [5308][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Thu Aug 23 23:15:32 2018 [5308][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Thu Aug 23 23:15:32 2018 [5308][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Thu Aug 23 23:34:04 2018 [5308][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 23 23:43:52 2018 [5308][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 23 23:56:07 2018 [5308][1][FATAL] ERROR: rmdir_recursive(): argument custom/modulebuilder/packages/ems is not a file or a dir.
+Fri Aug 24 00:31:16 2018 [5308][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 00:42:37 2018 [5308][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 00:50:24 2018 [5308][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 00:57:15 2018 [5308][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Aug 24 15:58:07 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 16:45:11 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 17:54:58 2018 [4748][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Aug 24 17:55:45 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 17:57:45 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 18:01:42 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Sat Aug 25 00:03:05 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Sat Aug 25 00:17:34 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Sat Aug 25 00:20:52 2018 [4748][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 16:35:23 2018 [4728][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 22:10:09 2018 [4728][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:15:06 2018 [7940][1][FATAL] Action = editLayout with unknown view=SearchView
+Tue Aug 28 00:15:22 2018 [7940][1][FATAL] Action = editLayout with unknown view=SearchView
+Tue Aug 28 00:15:30 2018 [7940][1][FATAL] Action = editLayout with unknown view=SearchView
+Tue Aug 28 00:15:42 2018 [7940][1][FATAL] Action = editLayout with unknown view=SearchView
+Tue Aug 28 00:17:04 2018 [7940][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Tue Aug 28 00:17:04 2018 [7940][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Tue Aug 28 00:17:10 2018 [7940][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Tue Aug 28 00:17:10 2018 [7940][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Tue Aug 28 00:18:10 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:38:44 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:39:08 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:39:40 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:45:21 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:53:24 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:56:20 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 00:58:37 2018 [7940][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 16:46:33 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:00:53 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:25:51 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:26:04 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:46:27 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:46:41 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 19:05:19 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 21:46:41 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 21:56:31 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 21:56:40 2018 [3612][1][FATAL] hola
+Tue Aug 28 22:49:19 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 22:49:29 2018 [3612][1][FATAL] hola
+Tue Aug 28 22:49:29 2018 [3612][1][FATAL] se imprimio
+Tue Aug 28 23:15:22 2018 [3612][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 23:15:48 2018 [3612][1][FATAL] hola
+Tue Aug 28 23:24:33 2018 [3612][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Aug 28 23:43:35 2018 [7428][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 23:43:48 2018 [7428][1][FATAL] hola
+Tue Aug 28 23:43:48 2018 [7428][1][FATAL] se imprimio
+Tue Aug 28 23:46:40 2018 [7428][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 23:46:51 2018 [7428][1][FATAL] hola
+Tue Aug 28 23:46:51 2018 [7428][1][FATAL] se imprimio
+Wed Aug 29 18:14:20 2018 [2548][1][FATAL] Action = editLayout with unknown view=SearchView
+Wed Aug 29 18:14:42 2018 [2548][1][FATAL] Action = editLayout with unknown view=SearchView
+Wed Aug 29 18:18:50 2018 [2548][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 18:18:50 2018 [2548][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 18:18:57 2018 [2548][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 18:18:57 2018 [2548][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 18:23:35 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 18:27:35 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 18:36:23 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 19:08:27 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 19:08:48 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 19:08:48 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 19:56:26 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 19:56:42 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 19:56:42 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 20:02:26 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 20:02:52 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 20:02:52 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 20:23:49 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 20:24:07 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 20:24:07 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 20:32:52 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 20:32:52 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 20:34:26 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 20:34:26 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 21:41:47 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 21:42:01 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 21:42:01 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 21:43:00 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 21:43:00 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 21:56:35 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 21:56:35 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 21:59:29 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 21:59:29 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:03:12 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:03:12 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:07:50 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 22:09:01 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 22:09:48 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:09:48 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:10:28 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:10:28 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:12:47 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:12:47 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:14:59 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:14:59 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 22:16:19 2018 [2548][1][FATAL] Mensaje antes de guardar
+Wed Aug 29 22:16:19 2018 [2548][1][FATAL] Mensaje despues de guardar
+Wed Aug 29 23:58:07 2018 [2548][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 30 00:10:28 2018 [2548][1][FATAL] IP Address mismatch: SESSION IP: ::1 CLIENT IP: 127.0.0.1
